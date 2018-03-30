@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">scoreKeeper</string>
+    <string name="heart_vs_brain">Heart_vs_Brain</string>
+    <string name="zero">0</string>
+    <string name="Confidence">Confidence +3</string>
+    <string name="Confused">Confused +2</string>
+    <string name="curious">Curious +1</string>
+    <string name="love">Love +3</string>
+    <string name="desire">Desire +2</string>
+    <string name="depressed">Depressed +1</string>
+    <string name="reset">RESET</string>
+    <string name="Question">Describe your feeling?</string>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="paddingRelative">3dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="big_text">25sp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="mid_text">20sp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="one">1dp</dimen>
+    <dimen name="large_text">50sp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="size">10sp</dimen>
+
+
+
+
+
+
+</resources>
